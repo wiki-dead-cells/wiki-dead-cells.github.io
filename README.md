@@ -1,1 +1,1 @@
-# dead-cells-wiki
+# wili-dead-cells
